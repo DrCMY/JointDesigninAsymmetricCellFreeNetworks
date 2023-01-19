@@ -1,0 +1,2 @@
+* As seen in the properties of Draft.pdf (-Right click the pdf and see the properties. Or, -Open the pdf, from the menu, see file/document properties), the first scratch was written on 20-03-2021
+* As seen in the properties of Draft_v02.pdf (-Open the pdf, from the menu, see file/document properties), the second scratch was written on 30-07-2021. This pdf was sent via my IEEE email account which is not active anymore. Hence, when you right click the pdf and see the properties, the date will be from 2023.
