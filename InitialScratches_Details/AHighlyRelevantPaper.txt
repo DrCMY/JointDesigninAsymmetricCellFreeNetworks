@@ -1,0 +1,7 @@
+A highly relevant paper, with an initial submission date of August 29, 2022, was submitted well after March 20, 2021, and July 30, 2021.
+
+https://arxiv.org/abs/2208.13552
+
+Energy-Efficient Cell-Free Massive MIMO Through Sparse Large-Scale Fading Processing
+
+Shuaifei Chen, Jiayi Zhang, Emil Björnson, Özlem Tuğfe Demir, Bo Ai
